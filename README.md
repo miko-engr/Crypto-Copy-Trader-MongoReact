@@ -1,4 +1,4 @@
-# Crypto-Copy-Trader
+# Crypto-Copy-Trader (VERSION REACT MONGODB)
 
 Copy trading tool for cryptocurrencies - written in Python & Flask
 <br/> Makes you copy high-performing masters without doing any effort
